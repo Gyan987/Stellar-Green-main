@@ -19,7 +19,7 @@ cd c:\Users\Paras\Desktop\stellar-4task\Green_Belt
 # Stage all changes.
 git add .
 
-# Create final commit
+# Create final commit.
 git commit -m "feat: complete production setup with token, inter-contract calls, and event streaming"
 
 # Check commits (should show 8+)
