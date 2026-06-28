@@ -51,7 +51,7 @@
 # Install Soroban CLI (if not already installed)
 cargo install --locked soroban-cli
 
-# Or download from: https://github.com/stellar/rs-soroban-sdk/releases.
+# Or download from: https://github.com/stellar/rs-soroban-sdk/releases
 ```
 
 ### Deployment Steps:
