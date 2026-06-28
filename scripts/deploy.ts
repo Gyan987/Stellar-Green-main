@@ -1,7 +1,7 @@
 /**
- * Soroban Contract Deployment Script
+ * Soroban Contract Deployment Script.
  * 
- * For deploying to Stellar testnet, use the Soroban CLI directly:
+ * For deploying to Stellar testnet, use the Soroban CLIS directly:
  * 
  * 1. Build the contracts:
  *    cd rust-contracts/medichain
