@@ -16,7 +16,7 @@
 ```bash
 cd c:\Users\Paras\Desktop\stellar-4task\Green_Belt
 
-# Stage all changes
+# Stage all changes.
 git add .
 
 # Create final commit
