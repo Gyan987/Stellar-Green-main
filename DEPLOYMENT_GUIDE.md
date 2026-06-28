@@ -64,7 +64,7 @@ cargo build --target wasm32-unknown-unknown --release
 
 2. **Set up Stellar account (if you don't have one):**
 ```bash
-# Download Stellar Freighter wallet: https://freighter.app/
+# Download Stellar Freighter wallet: https://freighter.app/.
 # Or generate a keypair using soroban CLI:
 soroban keys generate my-key --global
 
