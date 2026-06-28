@@ -39,7 +39,7 @@ In mobile-friendly
 
 
 ## ✅ CI/CD Pipeline Status:-
-[![CI Pipeline](https://github.com/krit-k7/Stellar-Green/actions/workflows/ci.yml/badge.svg)](https://github.com/krit-k7/Stellar-Green/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/gyanprakash/Stellar-Green/actions/workflows/ci.yml/badge.svg)](https://github.com/gyanprakash/Stellar-Green/actions/workflows/ci.yml)
 
 ## 📱 Mobile Responsive View:-
 *The application is built with a mobile-first approach, ensuring a seamless experience across all devices.*
