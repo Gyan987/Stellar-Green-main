@@ -69,7 +69,7 @@ cargo build --target wasm32-unknown-unknown --release
 soroban keys generate my-key --global
 
 # Fund your account with testnet XLM:
-# Go to https://stellar.expert/test and request XLM for your public key
+# Go to https://stellar.expert/test and request XLM for your public key.
 ```
 
 3. **Deploy MediChain Main Contract:**
