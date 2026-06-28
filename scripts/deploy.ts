@@ -1,5 +1,5 @@
 /**
- * Soroban Contract Deployment Script.
+ * Soroban Contract Deployment Script
  * 
  * For deploying to Stellar testnet, use the Soroban CLIS directly:
  * 
