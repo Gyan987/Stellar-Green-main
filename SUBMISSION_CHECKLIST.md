@@ -54,7 +54,7 @@ After Vercel deployment:
 ```bash
 # Edit README.md and update this line:
 # Change from: https://[your-vercel-url].vercel.app
-# To:          https://your-actual-vercel-url.vercel.app
+# To:          https://your-actual-vercel-url.vercel.app .
 
 git add README.md
 git commit -m "docs: add live Vercel deployment URL"
